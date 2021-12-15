@@ -1,0 +1,66 @@
+main {}
+ul {
+    background-color: white;
+  color: black;
+  font-size: 20px;
+}
+
+strong{
+  align-items: center ;
+}
+
+ h1 {
+  max-width: 100%;
+  background-color: teal;
+  color: black;
+  font-size: 60px;
+  padding: 1em;
+  text-align: center;
+  text: wrap; 
+}
+
+footer{
+  font-size: 10pxp;
+  text-align: right;
+}
+
+body {
+  background-color: gainsboro;
+}
+
+h2 {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  background-color: gainsboro;
+  color: black;
+  font-size: 25px;
+  padding: 0.6em;
+  text-align: right;
+}
+
+#image {
+overflow: auto;
+width: 100%;
+height: auto;
+max-width: 100%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+p {
+  background-color: teal;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  padding: 0.9em
+}
+
+#title{
+  background-color: teal;
+  width: 100%;
+}
